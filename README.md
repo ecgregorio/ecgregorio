@@ -1,7 +1,8 @@
 # About Me:
 
 Hi, I'm Evan, a CS Student, currently studying at The University of The Philippines Los Baños.
-I like creating utilities, automating, and putting stuff to the cloud.
+
+I like creating utilities, automating, deploying, and creating meaningful projects.
 
 **Currently:** Exploring Cloud-native tools 
 
