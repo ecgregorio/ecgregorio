@@ -35,7 +35,7 @@ A full-stack platform on AWS EC2 with Dockerized FastAPI, PostgreSQL, Nginx TLS,
           ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 
-### 🌙 [Resinly](https://github.com/ecgregorio/resinly)
+### 🌙 [Resinly](https://github.com/randomchaffee/resinly)
 A secure, multi-user Discord utility bot for Genshin Impact players to keep track of their resin count.
 
 <details>
