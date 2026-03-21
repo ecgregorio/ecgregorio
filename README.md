@@ -16,6 +16,11 @@ I like creating utilities, automating, deploying, and creating meaningful projec
 ### ☁️ [evangregorio.me](https://github.com/randomchaffee/evangregorio.me)
 A full-stack platform on AWS EC2 with Dockerized FastAPI, PostgreSQL, Nginx TLS, and automated CI/CD via GitHub Actions.
 
+**!!! NOTICE !!!** 
+```console
+I'm currently on the process of migrating this project to a
+different CSP (DigitalOcean) so all sites related to it will be down for the meantime
+```
 <details>
   <summary>Highlights</summary>
   
