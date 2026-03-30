@@ -41,10 +41,11 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 <details>
   <summary>Highlights</summary>
 
-  - Multi-user UID and notification state management
+  - Per-user UID + optional HSR UID support 
   - Secure per-user HoYoLab cookie handling with encryption at rest
   - Private onboarding flow using slash command + modal + helper guide
   - Background resin polling with duplicate-alert prevention logic
+  - optional daily leaderboards!
   - Dockerized runtime on a DigitalOcean Droplet with GitHub Actions CI/CD deployment
 </details>
 
@@ -66,5 +67,10 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
 | **Learning** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
 
+
+## Want to collaborate?
+I'm open to small collaborations, internships, or interesting engineering problems. DM me on Discord or drop an email.
+
 ---
+
 ![](https://komarev.com/ghpvc/?username=ecgregorio)
